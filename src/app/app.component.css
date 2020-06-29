@@ -1,3 +1,7 @@
-p {
-  font-family: Lato;
+
+.button-style {
+  display: block;
+  margin-bottom: 10px;
+  align-content: center;
+  width: 200px;
 }
